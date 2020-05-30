@@ -1,6 +1,6 @@
 # ToDo App
 
-Django Project covering the bsic fucntionality as below:
+Django Project covering the basic functionality as below:
 1. Creating the todo task
 2. Listing all tasks
 3. Updating the tasks using there respective ids
